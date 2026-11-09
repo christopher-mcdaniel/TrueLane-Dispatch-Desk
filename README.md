@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/icon.png" width="96" alt="TrueLane" />
+
 # TrueLane Dispatch Desk
 
 **One screen for the whole fleet: what is waiting, what is moving, and where the money leaks.**
