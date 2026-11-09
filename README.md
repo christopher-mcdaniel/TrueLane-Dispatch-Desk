@@ -5,7 +5,7 @@
 **One screen for the whole fleet: what is waiting, what is moving, and where the money leaks.**
 A dispatch and freight-intelligence desk for asset carriers, fleets and independent dispatchers.
 
-[Website](https://truelane-three.vercel.app/build.html) · [Screens](#screens) · [Features](#what-it-does) · [The driver app](https://github.com/christopher-mcdaniel/TrueLane-Driver-App-iOS) · [Contact](#contact)
+[Website](https://truelane-three.vercel.app/build.html) · [Book a walkthrough](https://calendly.com/cm145571/new-meeting) · [Screens](#screens) · [Features](#what-it-does) · [The driver app](https://github.com/christopher-mcdaniel/TrueLane-Driver-App-iOS) · [Contact](#contact)
 
 ![Dispatch queue](assets/screens/01-dispatch-queue.png)
 
@@ -33,7 +33,7 @@ Most carriers run a TMS, a fuel-card portal, an ELD and a pile of spreadsheets, 
 
 **Where the money leaks**
 - **Leak ledger.** Detention not billed, empty miles, loads booked under the floor and trailers sitting too long, each in dollars and each saying how it was worked out.
-- **Signals.** The same rules kept over time, with who is on each one, sent to Slack or email, plus a weekly leak report.
+- **Signals.** The same rules kept over time, with who is on each one, and a weekly leak report. Notifications go out through Slack, email or your own workflow tool once a channel is connected.
 - **Detention evidence.** The truck's track at each stop, frozen and hashed so a detention claim can be proven.
 - **KPI dashboard and why-it-moved.** What changed this period, broken into effects that add up to the change to the cent.
 
